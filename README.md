@@ -47,8 +47,8 @@ I specialize in the end-to-end product lifecycle, from requirements discovery an
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasahtsham&show_icons=true&theme=radium&hide_border=true" alt="Anas's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasahtsham&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anasahtsham&show_icons=true&theme=radium&hide_border=true&v=1" alt="Anas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasahtsham&layout=compact&theme=radium&hide_border=true&v=1" alt="Top Languages" />
 </div>
 
 ---

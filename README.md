@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Anas Ahtsham 👋
+# Hi there, I'm Anas 👋
 
 **Full-Stack Web & Mobile Engineer** from Islamabad, Pakistan.
 
